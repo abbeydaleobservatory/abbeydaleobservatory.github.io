@@ -1,0 +1,12 @@
+Updating Statistics
+
+
+First update Stats2005 Excel doc and save.
+
+Create graph
+
+Save as Stats2005.htm
+
+Open Stats2005.htm and save the image as Stats2005.gif
+
+Upload to website
